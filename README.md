@@ -1,1 +1,2 @@
 # CECS-491-Pet-Adoption
+Pet Adoption Match is a web application that aims to connect dogs and cats to potential adopters who can provide them with a suitable home. We tackle the challenge of stray animals by providing a responsible adoption platform, aiming to diminish the number of abandoned and sheltered animals. Powered by an advanced machine learning match algorithm, we ensure that each adoption aligns the pet’s traits with the adopter’s lifestyle, preferences, and capabilities.
